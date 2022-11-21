@@ -1,0 +1,82 @@
+{
+  "project_info": {
+    "project_number": "744179175371",
+    "project_id": "cs-cart-mobile-app",
+    "storage_bucket": "cs-cart-mobile-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:744179175371:android:7b7842868e0064dcd9704e",
+        "android_client_info": {
+          "package_name": "com.multivendor.simtech"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "744179175371-054psv56lauo3avr0rk7n5gbqnacdg3e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBShV6gjpILQizMDpZuSXn2hyee55yN-KQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "744179175371-054psv56lauo3avr0rk7n5gbqnacdg3e.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "744179175371-o3nta19rd4bikab65h29c4eua5a615po.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.cs-cart.TestApp"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:744179175371:android:c054ee94b3024e70d9704e",
+        "android_client_info": {
+          "package_name": "com.simtech.multivendor"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "744179175371-054psv56lauo3avr0rk7n5gbqnacdg3e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBShV6gjpILQizMDpZuSXn2hyee55yN-KQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "744179175371-054psv56lauo3avr0rk7n5gbqnacdg3e.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "744179175371-o3nta19rd4bikab65h29c4eua5a615po.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.cs-cart.TestApp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
